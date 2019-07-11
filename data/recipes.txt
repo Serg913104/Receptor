@@ -1,0 +1,8 @@
+<Potatoes_with_mushrooms #potato #mushroom >
+<Vegetable_puree #potato #zucchini>
+<Rice_with_vegetables #rice #corn #zucchini #pepper>
+<Rise_with_pineapple #rice #pineapple #orange >
+<Cauliflower_and_broccoli_in_a_slow_cooker #cauliflower #broccoli >
+<Children's_cream_soup #broccoli #potato >
+<Strawberry_and_Banana_Fruit_Salad #strawberry #banana #lemon>
+<Rice_salad_with_oranges #rice #orange #pomegranate #lemon>
